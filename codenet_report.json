@@ -1,0 +1,8 @@
+{
+    "dataset": "datasets/codenet",
+    "total_files_processed": 5,
+    "successful_parses": 3,
+    "failed_parses": 2,
+    "total_dead_code_removed": 24,
+    "time_taken_seconds": 0.02
+}

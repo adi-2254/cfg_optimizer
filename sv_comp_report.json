@@ -1,0 +1,8 @@
+{
+    "dataset": "datasets/sv_comp",
+    "total_files_processed": 75,
+    "successful_parses": 0,
+    "failed_parses": 75,
+    "total_dead_code_removed": 0,
+    "time_taken_seconds": 0.09
+}
