@@ -271,12 +271,8 @@ sv_comp_report.json
 ---
 
 ## 📸 Demo
-
-> Add a screenshot named **cfg_demo.png** in the repository root.
-
-```markdown
 ![CFG Optimizer Dashboard](cfg_demo.png)
-```
+
 
 ---
 
