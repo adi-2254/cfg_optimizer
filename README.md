@@ -20,6 +20,11 @@ Starting from raw **C source code**, it:
 The project also includes an interactive **Streamlit dashboard** for visual exploration of CFG transformations.
 
 ---
+## 📸 Demo
+![CFG Optimizer Dashboard](cfg_demo.png)
+
+
+---
 
 ## ✨ Features
 
@@ -267,12 +272,6 @@ sv_comp_report.json
 | Unreachable Code Removal | ✅ |
 | CFG Visualization | ✅ |
 | Dataset Benchmarking | ✅ |
-
----
-
-## 📸 Demo
-![CFG Optimizer Dashboard](cfg_demo.png)
-
 
 ---
 
